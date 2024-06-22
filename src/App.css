@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(254, 213, 213);
+}
+
+.App-header {
+    margin-left: 20px;
+}
+
+h1 {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
